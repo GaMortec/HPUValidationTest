@@ -15,6 +15,9 @@
 		<Item Name="Adams Library" Type="Folder" URL="../Adams Library">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="ICM Library" Type="Folder" URL="../ICM Library">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="NTC Thermistor" Type="Folder" URL="../NTC Thermistor">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
